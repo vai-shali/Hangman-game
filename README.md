@@ -3,6 +3,7 @@
 A python based hangman game using tkinter GUI. 
 <br>
 <h3>Execution</h3>
+
 ```
 python hangman.py
 ```
